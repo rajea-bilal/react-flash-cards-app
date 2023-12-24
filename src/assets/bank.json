@@ -1,0 +1,83 @@
+[
+  {
+    "question": "What is a library?",
+    "answer": "Theres more flexibility in how its used.",
+    "id" : 1
+  },
+  {
+    "question": "What is a framework?",
+    "answer": "they tend to be less flexible, more prescriptive of how theyre used.",
+    "id" : 2
+  },
+  {
+    "question": "What is React in simplest terms",
+    "answer": "Its a JavaScript library written by others to make building User interfaces simpler and more efficient.",
+    "id" : 3
+  },
+
+  {
+    "question": "What is the virtual DOM in React?",
+    "answer": "The virtual DOM in React is an efficient, in-memory representation of the UI, allowing quick updates to the actual DOM.",
+    "id" : 4
+  },
+  {
+    "question": "Explain the difference between declarative and imperative programming.",
+    "answer": "Declarative programming describes what should be accomplished, such as 'take me to the airport.' In contrast, imperative programming involves providing step-by-step instructions, dictating how a process should operate. Declarative systems are typically built on top of imperative systems.",
+    "id" : 5
+  },
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library designed for building user interfaces.",
+    "id" : 6
+  },
+  {
+    "question": "Who created React and maintains it?",
+    "answer": "React was created and is currently maintained by Facebook (Meta).",
+    "id" : 7
+  },
+  {
+    "question": "In React, what is a Component?",
+    "answer": "A Component in React is a JavaScript function or class that returns a piece of UI to be rendered.",
+    "id" : 8
+  },
+  {
+    "question": "What is the Virtual DOM in React?",
+    "answer": "The Virtual DOM in React is a fast, in-memory representation of the UI, which allows the real DOM to be efficiently updated.",
+    "id" : 9
+  },
+  {
+    "question": "What is JSX?",
+    "answer": "JSX is a templating language that looks like HTML and transforms into JavaScript.",
+    "id" : 10
+  },
+  {
+    "question": "What is Create React App?",
+    "answer": "Create React App is a command line interface tool to set up a new React applications with a default template.",
+    "id" : 11
+  },
+  {
+    "question": "What is server side rendering?",
+    "answer": "Dynamically generating HTML on the server before sending it to the browser",
+    "id" : 12
+  },
+  {
+    "question": "What is a single page application?",
+    "answer": "An application that loads a single HTML page and dynamically updates that page, without having to load another HTML file again",
+    "id" : 13
+  },
+  {
+    "question": "In an imperative style, you typically micromanage details and specify how the result should be achieved.",
+    "answer": "True",
+    "id" : 14
+  },
+  {
+    "question": "In a declarative style, you're typically able to specify what you want the end result to be (without having to worry about the how).",
+    "answer": "True",
+    "id" : 15
+  },
+  {
+    "question": "How is React made up of components, and what role do components play in React's UI development?",
+    "answer": "React is made up of components, which are the building blocks of any UI. These components are responsible for rendering UI elements on the page, enabling the creation of entire UI or website structures. Components can be reused across various parts of the application, promoting efficient code reusability.",
+    "id" : 16
+  }
+]
